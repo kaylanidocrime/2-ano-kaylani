@@ -13,13 +13,13 @@ body {
 }
 
 #menu {/*Formatação do menu*/
-	background: #c5c5c5b2;
+	background: #40E0D0;
 	/*border: 1px solid red; Borda sólida na div*/
 	padding: 18px; display: flex /*Espaçamento interna div*/
 }
 
 #conteudo {
-	background: #c5c5b2;
+	background: #00FFFF;
 	padding: 10px;
 }
 
@@ -34,21 +34,21 @@ body {
 }
 
 a { /*Formatação dos links*/
-	color: #4b566a;
+	color: #7FFFD4;
 	text-decoration: none;
 	font-weight: bold;
 	padding: 5px;
 }
 
 h1 {
-	color: #828271;
+	color: #00CED1;
 	font-size: 1.2em;
 }
 h3 {
-	color: #828271;
+	color: #00CED1;
 	font-size: 1.2em;
 	}
 h4 {
-	color: #828271;
+	color: #00CED1;
 	font-size: 1.2em;
 }
