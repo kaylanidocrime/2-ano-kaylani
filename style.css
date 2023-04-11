@@ -18,6 +18,9 @@ body {
 	padding: 18px; display: flex /*Espaçamento interna div*/
 }
 
+#textohome {/*Formatação do textohome*/
+	background: #B0C4DE
+
 #conteudo {
 	background: #00FFFF;
 	padding: 10px;
